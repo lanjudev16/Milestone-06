@@ -1,0 +1,13 @@
+.p-class {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 50px;
+}
+
+.p-class h3.friend-name {
+    background: rebeccapurple;
+}
+
+.p-class p {
+    background: steelblue;
+}
