@@ -23,6 +23,7 @@ third(1,2)
 function fourth(a,b){
     return
 }
+
 console.log(fourth(10,0))
 
 const user={
