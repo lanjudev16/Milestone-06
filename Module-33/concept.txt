@@ -1,0 +1,6 @@
+if we can convert into object to string ,then using json.stringify() method
+if we can convert int string to json object ,then using json.parse() method 
+creating a new data using by post method
+updating a data using by patch/put method
+getting data from server by using get method
+delete data from server by using delete method

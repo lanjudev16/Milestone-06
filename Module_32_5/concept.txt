@@ -1,0 +1,25 @@
+ver vs const vs let
+we can reassign and redefine by var
+we can also reassign but can not redefine by let 
+wec can not reassign and redefine by const 
+
+let name='Love'
+here redefine means. let name='Ass' 
+
+=============Scope in javaScript================
+
+scope in javaScript
+01->Global scope :It can access any where
+02->Local scope  :if we declare a variable anything we cannot access outside of the function 
+03->Block scope  :It can access only block that means { }
+
+let and const is a block scope variable
+
+============Template string in javaScript=============
+template string mainly use for dynamic and multiple line
+for dynamic ` ${variable_name} `
+for multiline `
+`
+============Ternary operator=============
+Syntax of ternary operator
+(condition)?statement-01:statement-02
